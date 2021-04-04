@@ -1,3 +1,7 @@
+# This is a fake API I launch in port 3001 to feed a project from the msosa-portfolio at this same repository
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
